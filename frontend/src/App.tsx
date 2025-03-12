@@ -9,7 +9,6 @@ import CitizenDashboard from './pages/CitizenDashboard';
 import ReportIssue from './pages/ReportIssue';
 import ProjectList from './pages/ProjectList';
 import WorkerMarketplace from './pages/WorkerMarketplace';
-import Footer from './components/Footer';
 
 function App() {
   return (
@@ -27,7 +26,6 @@ function App() {
             <Route path="/marketplace" element={<WorkerMarketplace />} />
           </Routes>
         </AnimatePresence>
-        <Footer />
       </div>
     </Router>
   );
