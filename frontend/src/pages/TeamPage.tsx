@@ -22,7 +22,7 @@ interface TeamMember {
       github: "https://github.com/Saquibs7",
     },
     {
-      name: "Faisal Quaiyum",
+      name: "Md Faisal Quaiyum",
       role: "Full stack developer",
       description: "Faisal analyzes the user requirement to enhance our AI-powered solutions and improve efficiency.",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80",
@@ -31,7 +31,7 @@ interface TeamMember {
       github: "https://github.com/famy1",
     },
     {
-      name: "Md Kaif",
+      name: "Md Kaif Imteyaz",
       role: "Lead Developer",
       description: "Kaif specializes in AI algorithms and software development for infrastructure management.",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80",
