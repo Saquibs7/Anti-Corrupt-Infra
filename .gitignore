@@ -22,8 +22,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Ignore environment variables
-.env
-
-# Ignore Firebase config (if applicable)
-frontend/src/firebase.js
