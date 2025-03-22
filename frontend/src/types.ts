@@ -26,6 +26,16 @@ export interface ProjectMedia {
   uploadDate: string;
 }
 
+// export interface AIInsights {
+//   estimatedCompletion: string;
+//   delayProbability: number;
+//   riskFactors: string[];
+//   qualityAssessment: {
+//     score: number;
+//     findings: string[];
+//   };
+// }
+
 export interface Project {
   id: string;
   name: string;
